@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I’m Al‑ameen Adesina 👋
 
-<!--
-**AlameenAdesina/AlameenAdesina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 Thank you for stopping by my space — this is where I grow, build, and share my journey in cybersecurity and tech!
 
-Here are some ideas to get you started:
+🌱 I’m currently diving deeper into Cybersecurity, Governance, Strategy, Linux, Automation, Python, and ISO 27001. I enjoy creating structure, solving problems, and helping people — whether through tech, process, or collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I’m actively shaping my path toward consulting, governance, risk, and strategy roles. Every project, event, and certification is an opportunity to sharpen my craft.
+
+🎓 I’ve been engaging with the community through events like **BFUTR 2025**, where I connected with tech leaders, cybersecurity professionals, and innovators who inspire my growth.
+
+---
+
+## 🟩 Certifications I’ve Earned
+- ✔️ ISC2 Certified in Cybersecurity (CC)
+- ✔️ CompTIA Security+
+- ✔️ ISO/IEC 27001 Certified
+- ✔️ Ontario Security License
+- ✔️ Emergency CPR Certification
+
+## 🟨 Certifications I’m Currently Pursuing
+- ⏳ Microsoft SC‑300 (Identity & Access Administrator)
+- ⏳ AWS Cloud Practitioner (CCP)
+  
+
+---
+
+## 📚 Current Goals  
+- Strengthen my governance & strategy skillset  
+- Build a stronger foundation in automation & Python  
+- Continue developing my cybersecurity portfolio  
+- Engage in more tech & professional development events  
+
+---
+
+## 📫 Find Me Here  
+(Insert your links here)  
+- LinkedIn:  
+- Portfolio:  
+- Email:  
+
+Thanks for visiting — let’s connect and build something meaningful! ✨
