@@ -10,6 +10,12 @@
 
 ---
 
+## 🚧 Projects
+- 
+
+
+---
+
 ## 🟩 Certifications I’ve Earned
 - ✔️ ISC2 Certified in Cybersecurity (CC)
 - ✔️ CompTIA Security+
