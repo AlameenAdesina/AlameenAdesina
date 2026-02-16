@@ -32,10 +32,14 @@
 
 ---
 
-## 📫 Find Me Here  
-(Insert your links here)  
-- LinkedIn:  
-- Portfolio:  
-- Email:  
+## Podcasts i'm enjoying right now 
 
+
+
+---
+
+## 📫 Find Me Here   
+- LinkedIn:  https://www.linkedin.com/in/al-ameen-adesina-806240213/
+- Portfolio:  
+- Email: adesinaalameenb@gmail.com
 Thanks for visiting — let’s connect and build something meaningful! ✨
