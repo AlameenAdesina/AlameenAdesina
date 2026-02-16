@@ -32,14 +32,20 @@
 
 ---
 
-## Podcasts i'm enjoying right now 
-
+## 🎤Podcasts i'm enjoying right now 
+- https://open.spotify.com/show/6ep00zeY3S8ffZ4o0UeSps?si=54620c2082fd45b6
+- https://open.spotify.com/show/2kxOETGvN32D6hZu0wPntG?si=4c9aaa4deb594a0c
+- https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=a9619fe7abdf4ade
+- https://open.spotify.com/show/0XCFVnI6nqDzespgDg0AfI?si=73d4e96c01064c4c
+- https://open.spotify.com/show/4ln6H9peIXhq19yv3CdOvE?si=d35af83e678a4609
+- https://open.spotify.com/show/1EEXCLIy0isyF7YezlTepQ?si=148a0294515348db
+- https://open.spotify.com/show/2tDV6qKYv8o0a3VJnHJYYP?si=1cb2d60a52794084
 
 
 ---
 
 ## 📫 Find Me Here   
 - LinkedIn:  https://www.linkedin.com/in/al-ameen-adesina-806240213/
-- Portfolio:  
+- Portfolio:  https://github.com/AlameenAdesina/AlameenAdesina/
 - Email: adesinaalameenb@gmail.com
 Thanks for visiting — let’s connect and build something meaningful! ✨
