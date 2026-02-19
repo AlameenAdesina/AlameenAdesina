@@ -38,3 +38,7 @@ sudo python3 backup_cleanup.py --source-dirs /var/log /data/reports --backup-dir
 
 ###Sample dataset generator (for tests)
 mkdir -p /tmp/srcA/sub1 /tmp/srcB/sub2 && printf "hello\n" > /tmp/srcA/sub1/a.txt && dd if=/dev/urandom of=/tmp/srcA/sub1/b.log bs=1K count=64 status=none && printf "2025-01-01,ok\n" > /tmp/srcB
+
+
+### How to read the logs
+tail -n 100 /var/log/backup_cleanup.log grep -i "Failed" /var/log/backup_cleanup.log
